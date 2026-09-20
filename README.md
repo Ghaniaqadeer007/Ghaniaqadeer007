@@ -46,18 +46,6 @@ A Computer Science student passionate about building clean desktop software, res
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghaniaqadeer007&show_icons=true&theme=radical&hide_border=true" alt="Ghania's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Connect With Me:
 - **LinkedIn:** [linkedin.com/in/ghaniaqadeer](https://linkedin.com) *(Update with your direct link)*
 - **Portfolio / Projects:** [Explore my repositories](https://github.com)
